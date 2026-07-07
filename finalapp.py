@@ -73,6 +73,8 @@ if resume_file and job_description:
             )
 
             prompt = f"""
+            you are a strict hiring manager that hire only
+            best now you got a resume of guy.
             Compare this resume with the job description.
 
             Job Description:
